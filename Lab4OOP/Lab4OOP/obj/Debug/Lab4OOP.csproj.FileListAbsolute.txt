@@ -1,0 +1,6 @@
+D:\Мои документы\Visual Studio 2013\Projects\Lab4OOP\Lab4OOP\bin\Debug\Lab4OOP.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\Lab4OOP\Lab4OOP\bin\Debug\Lab4OOP.exe
+D:\Мои документы\Visual Studio 2013\Projects\Lab4OOP\Lab4OOP\bin\Debug\Lab4OOP.pdb
+D:\Мои документы\Visual Studio 2013\Projects\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.exe
+D:\Мои документы\Visual Studio 2013\Projects\Lab4OOP\Lab4OOP\obj\Debug\Lab4OOP.pdb
